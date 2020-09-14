@@ -3,11 +3,17 @@
 Clearly we both have an interest in ✨ _code_ ✨ #BuildingTheFuture 😄
 
 I code for fun. I code for bread. I code to grow.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwothoromo&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="My GitHub stats"/><br><br>
+
 I look at programming languages as tools to achieve a given project's goals. In that regard, I work with Python, Kotlin, Java, PHP, JavaScript and of course, HTML/CSS. You can check out what I use for code [here](https://rwothoromo.wordpress.com/2020/05/29/uses/).
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rwothoromo&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo" alt="Most used languages" />
+</a><br><br>
 
-Beyond Geek, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo).
+
+Beyond _Geek_, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo).
 
 I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff; both are on YouTube.
 
