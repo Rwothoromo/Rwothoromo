@@ -11,7 +11,10 @@ I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](http
 
 You and I can be friends, workmates, connections, etc. So, why not connect!?
 
-[![LinkedIn](graphics/LinkedIn.png "LinkedIn")](https://www.linkedin.com/in/rwothoromoelaijah/) | [![Twitter](graphics/Twitter.png "Twitter")](https://twitter.com/rwothoromo)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rwothoromoelaijah/"><img src="graphics/LinkedIn.png" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/rwothoromo"><img src="graphics/Twitter.png" alt="Twitter"/></a>
+</p>
 
 <!--
 **Rwothoromo/Rwothoromo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
