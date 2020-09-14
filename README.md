@@ -9,7 +9,7 @@ I code for fun. I code for bread. I code to grow.
 I look at programming languages as tools to achieve a given project's goals. In that regard, I work with Python, Kotlin, Java, PHP, JavaScript and of course, HTML/CSS. You can check out what I use for code [here](https://rwothoromo.wordpress.com/2020/05/29/uses/).
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo&layout=compact&langs_count=7" alt="Most used languages" />
 </a><br><br>
 
 
