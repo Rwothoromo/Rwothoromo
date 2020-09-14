@@ -9,7 +9,7 @@ I code for fun. I code for bread. I code to grow.
 I look at programming languages as tools to achieve a given project's goals. In that regard, I work with Python, Kotlin, Java, PHP, JavaScript and of course, HTML/CSS. You can check out what I use for code [here](https://rwothoromo.wordpress.com/2020/05/29/uses/).
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo&layout=compact&langs_count=7" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Most used languages" />
 </a><br><br>
 
 
@@ -20,8 +20,8 @@ I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](http
 You and I can be friends, workmates, connections, etc. So, why not connect!?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rwothoromoelaijah/"><img src="graphics/LinkedIn.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/rwothoromo"><img src="graphics/Twitter.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/rwothoromoelaijah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/rwothoromo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 <!--
