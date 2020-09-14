@@ -2,13 +2,19 @@
 
 Clearly we both have an interest in ✨ _code_ ✨ #BuildingTheFuture 😄
 
-I code for fun. I code for bread. I code to grow.
-I look at programming languages as tools to achieve a given project's goals. In that regard, I work with Python, Kotlin, Java, PHP, JavaScript and of course, HTML/CSS. You can check out what I use for code [here](https://rwothoromo.wordpress.com/2020/05/29/uses/).
+I code for fun. I code for bread. I code to grow.<br>
+I look at programming languages as tools for achieving a given project's goals. In that regard, I work with Python, Kotlin, Java, PHP, JavaScript and of course, HTML/CSS. You can check out what I use for code [here](https://rwothoromo.wordpress.com/2020/05/29/uses/) as well as some of my [works](https://rwothoromo.wordpress.com/2020/04/23/professional-bio/).
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rwothoromoelaijah/"><img src="https://github-readme-stats.vercel.app/api?username=rwothoromo&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/rwothoromo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Twitter"/></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rwothoromo&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="LinkedIn"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Twitter"/>
+    </td>
+  </tr>
+</table>
 
 
 Beyond _Geek_, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo). I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff; both are on YouTube.
