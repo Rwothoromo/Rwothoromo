@@ -13,11 +13,9 @@ I look at programming languages as tools to achieve a given project's goals. In 
 </a><br><br>
 
 
-Beyond _Geek_, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo).
+Beyond _Geek_, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo). I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff; both are on YouTube.
 
-I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff; both are on YouTube.
-
-You and I can be friends, workmates, connections, etc. So, why not connect!?
+You and I can be friends, workmates, connections, name it! So, why not connect with me!?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rwothoromoelaijah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
