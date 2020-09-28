@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Clearly we both have an interest in ✨ _code_ ✨ #BuildingTheFuture 😄
+Clearly, we both have an interest in ✨ _code_ ✨ #BuildingTheFuture 😄
 
-I code for fun. I code for bread. I code to grow.<br>
+I code for fun. I code for bread. I code for growth.<br>
 I look at programming languages as tools for achieving a given project's goals. In that regard, I work with Python, Kotlin, Java, PHP, JavaScript and of course, HTML/CSS. You can check out what I use for code [here](https://rwothoromo.wordpress.com/2020/05/29/uses/) as well as some of my [works](https://rwothoromo.wordpress.com/2020/04/23/professional-bio/).
 
 <table>
@@ -17,7 +17,7 @@ I look at programming languages as tools for achieving a given project's goals. 
 </table>
 
 
-Beyond _Geek_, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo). I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff; both are on YouTube.
+Beyond the default _Geek_ state, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo). I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff.
 
 You and I can be friends, workmates, connections, name it! So, why not connect with me!?
 
