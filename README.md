@@ -23,9 +23,7 @@ I look at programming languages as tools for achieving a given project's goals. 
   -->
   <tr>
     <td colspan="3">
-      <div style="line-height: 50px; overflow:hidden;">
-        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript" alt="CodersRank - Tech Skills"/>
-      </div>
+      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&height=10&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript" alt="CodersRank - Tech Skills"/>
     </td>
   </tr>
 </table>
