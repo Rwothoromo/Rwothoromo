@@ -8,7 +8,7 @@ I look at programming languages as tools for achieving a given project's goals. 
 <table>
   <tr>
     <td colspan="3">
-      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo&layout=vertical" alt="CodersRank - Summary"/>
+      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo" alt="CodersRank - Summary"/>
     </td>
   </tr>
   <tr>
