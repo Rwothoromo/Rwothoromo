@@ -11,7 +11,7 @@ I look at programming languages as tools for achieving a given project's goals. 
       <!--
       <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo" alt="CodersRank"/>
       -->
-      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo&badges=6&style=--borderradius:10px"/>
+      <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo"/>
     </td>
   </tr>
   <tr>
