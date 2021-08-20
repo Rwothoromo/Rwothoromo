@@ -21,7 +21,7 @@ I look at programming languages as tools for achieving a given project's goals. 
   </tr>
   <tr>
     <td colspan="3">
-      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo?skills='JavaScript, Vue, CSS'" alt="CodersRank - Tech Skills"/>
+      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo?skills=JavaScript" alt="CodersRank - Tech Skills"/>
     </td>
   </tr>
 </table>
