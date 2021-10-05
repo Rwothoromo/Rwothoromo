@@ -27,8 +27,9 @@ I look at programming languages as tools for achieving a given project's goals. 
   </tr>
 </table>
 -->
-<!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&height=100&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript&skills=json&skills=html&skills=css&skills=other" alt="CodersRank - Tech Skills"/>-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo" alt="CodersRank - Tech Skills"/>
+
+<!--<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo" alt="CodersRank - Tech Skills"/>-->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&height=100&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript&skills=json&skills=html&skills=css&skills=other" alt="CodersRank - Tech Skills"/>
 
 Beyond the default _Geek_ state, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo). I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff.
 
