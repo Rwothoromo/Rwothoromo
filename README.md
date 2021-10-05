@@ -28,6 +28,15 @@ I look at programming languages as tools for achieving a given project's goals. 
 </table>
 -->
 
+<table>
+  
+  <tr>
+    <td colspan="3">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="MostUsedLanguages"/>
+    </td>
+  </tr>
+</table>
+
 Beyond the default _Geek_ state, I occassionally write when inspired on my [site](https://rwothoromo.wordpress.com) _(you might love the poetry)_. You can also find some of my works on [medium](https://medium.com/@rwothoromo). I love comedy, sci-fi, chess, good music and movies. I recommend [CGMeetUp](https://www.youtube.com/user/CGMeetUp) if you love animations and [DUST](https://www.youtube.com/channel/UC7sDT8jZ76VLV1u__krUutA) for that awesome futuristic sci-fi stuff.
 
 You and I can be friends, workmates, connections, name it! So, why not connect with me!?
