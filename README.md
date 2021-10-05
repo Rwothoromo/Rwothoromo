@@ -36,7 +36,7 @@ You and I can be friends, workmates, connections, name it! So, why not connect w
 <p align="center">
   <a href="https://www.linkedin.com/in/rwothoromoelaijah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/rwothoromo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://profile.codersrank.io/user/rwothoromo"><img src="https://codersrank.io/wp-content/uploads/2019/11/cr-logo-horizontal-1.svg" alt="CodersRank"/></a>
+  <!--<a href="https://profile.codersrank.io/user/rwothoromo"><img src="https://codersrank.io/wp-content/uploads/2019/11/cr-logo-horizontal-1.svg" alt="CodersRank"/></a>-->
 </p>
 
 <!--
