@@ -12,7 +12,6 @@ I look at programming languages as tools for achieving a given project's goals. 
       <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo" alt="CodersRank - Summary"/>
     </td>
   </tr>
-  -->
   <tr>
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api?username=rwothoromo&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
@@ -23,6 +22,12 @@ I look at programming languages as tools for achieving a given project's goals. 
   </tr>
   <tr>
     <td colspan="3">
+      <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&height=100&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript" alt="CodersRank - Tech Skills"/>
+    </td>
+  </tr>
+  -->
+  <tr>
+    <td>
       <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&height=100&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript" alt="CodersRank - Tech Skills"/>
     </td>
   </tr>
