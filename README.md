@@ -5,8 +5,8 @@ Clearly, we both have an interest in ✨ _code_ ✨ #BuildingTheFuture 😄
 I code for fun. I code for bread. I code for growth.<br>
 I look at programming languages as tools for achieving a given project's goals. In that regard, I work with Python, Kotlin, Java, PHP, JavaScript and of course, HTML/CSS. You can check out what I use for code [here](https://rwothoromo.wordpress.com/2020/05/29/uses/) as well as some of my [works](https://rwothoromo.wordpress.com/2020/04/23/professional-bio/).
 
+<!--
 <table>
-  <!--
   <tr>
     <td colspan="3">
       <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo" alt="CodersRank - Summary"/>
@@ -25,7 +25,9 @@ I look at programming languages as tools for achieving a given project's goals. 
       <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&height=100&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript" alt="CodersRank - Tech Skills"/>
     </td>
   </tr>
-  -->
+</table>
+-->
+<table>
   <tr>
     <td>
       <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rwothoromo&height=100&skills=java&skills=kotlin&skills=python&skills=php&skills=javascript" alt="CodersRank - Tech Skills"/>
