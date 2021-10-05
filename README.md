@@ -7,7 +7,7 @@ I look at programming languages as tools for achieving a given project's goals. 
 
 <table>
 
-  <!--
+  <!---->
   <tr>
     <td colspan="3">
       <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rwothoromo" alt="CodersRank - Summary"/>
@@ -21,7 +21,7 @@ I look at programming languages as tools for achieving a given project's goals. 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwothoromo&layout=compact&langs_count=7&theme=vision-friendly-dark" alt="Most Used Languages"/>
     </td>
   </tr>
-  -->
+  <!---->
 
   <tr>
     <td colspan="3">
